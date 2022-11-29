@@ -46,5 +46,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freakidann&" alt="freakidann" /></p>
 
-## Snake
+## SNAKE EAT MY GRAPH !!! NOOOOO
 ![snake gif](https://raw.githubusercontent.com/Freakidann/Freakidann/output/github-contribution-grid-snake.svg)
